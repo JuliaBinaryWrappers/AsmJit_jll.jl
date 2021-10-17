@@ -1,0 +1,115 @@
+[[AsmJit]]
+arch = "aarch64"
+git-tree-sha1 = "ae927d8c0703b8f5d282d5110f2db6417a8b4a5e"
+libc = "glibc"
+os = "linux"
+
+    [[AsmJit.download]]
+    sha256 = "1fd84ca10c92220ddaab9f0fb0b0f8f94a15e6560002e7f71a0cbaaaa76a780f"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[AsmJit]]
+arch = "aarch64"
+git-tree-sha1 = "f5bc337ea751ecb55de5fe69b819993d6e922cc8"
+libc = "musl"
+os = "linux"
+
+    [[AsmJit.download]]
+    sha256 = "267582bf2ee44c3d14bfee2b46d67862b7ab4536d5bf6bad9a3218ca0f900a40"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.aarch64-linux-musl.tar.gz"
+[[AsmJit]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e95b29b6093e4f4fc852694c6c8f2f79d70d3c44"
+libc = "glibc"
+os = "linux"
+
+    [[AsmJit.download]]
+    sha256 = "9f120d1e3daf4f913ba57bde338c30e0b51b3f3a56900d0cbed72e547fb13d5e"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[AsmJit]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e71e6e42e951038c409dc7977a8aa73ded9c1a82"
+libc = "musl"
+os = "linux"
+
+    [[AsmJit.download]]
+    sha256 = "faf40fa33c5615c0202f0ecb54784687accc33236573ce8e481c37b091b21842"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[AsmJit]]
+arch = "i686"
+git-tree-sha1 = "6e204a45bde41b12f470ed39531dd3a4bc3297c4"
+libc = "glibc"
+os = "linux"
+
+    [[AsmJit.download]]
+    sha256 = "baaba0308c819b468de883b463304fe286cd598aadca0f28784e3ab2c3b05052"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.i686-linux-gnu.tar.gz"
+[[AsmJit]]
+arch = "i686"
+git-tree-sha1 = "dbbda69a5d11c6ba1b5e414e89b5abe59eb98d6d"
+libc = "musl"
+os = "linux"
+
+    [[AsmJit.download]]
+    sha256 = "253340aa1aae7dd750ad434df6bcb5062bce020b3d33c85ed95873bd4acbdeb0"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.i686-linux-musl.tar.gz"
+[[AsmJit]]
+arch = "i686"
+git-tree-sha1 = "fb2eabe9f65cdfb9c00e9486e91dd63e654a4095"
+os = "windows"
+
+    [[AsmJit.download]]
+    sha256 = "e62b2c307d5bd98f7f84439079d8c725e66569d0c7f92444dab013073bf70ca1"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.i686-w64-mingw32.tar.gz"
+[[AsmJit]]
+arch = "powerpc64le"
+git-tree-sha1 = "d8a5529821cbac5155c71d504fdf3709ddad1f06"
+libc = "glibc"
+os = "linux"
+
+    [[AsmJit.download]]
+    sha256 = "26e60cf46c78f6e1a92544c27c118fdad66d82d4801d2cb46457aca760a759df"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[AsmJit]]
+arch = "x86_64"
+git-tree-sha1 = "3be45311da579d6c8e33cd0ea46a4ac9b0dd7f0d"
+os = "macos"
+
+    [[AsmJit.download]]
+    sha256 = "b63b79c3d611de4c79a498310c4cb400bbb29756322fdd3373cf2b6edbf2fac5"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[AsmJit]]
+arch = "x86_64"
+git-tree-sha1 = "48c6ecfeeb2ac8fb11d66699f0aa9492344cc2f9"
+libc = "glibc"
+os = "linux"
+
+    [[AsmJit.download]]
+    sha256 = "37ca325d306adf3128b893f0f2eb61e60a861de3364442eb09415e92d4831c96"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[AsmJit]]
+arch = "x86_64"
+git-tree-sha1 = "15ebc3f8dbd59b80c4de4787438b4bf4bd3b1cb9"
+libc = "musl"
+os = "linux"
+
+    [[AsmJit.download]]
+    sha256 = "6fefd4ca5be815e62f68eb220bafc8841baa3a4e07564b82135c35ab1c9787f5"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.x86_64-linux-musl.tar.gz"
+[[AsmJit]]
+arch = "x86_64"
+git-tree-sha1 = "f2f90e73150c7a179824f118ec262e5ae23671c2"
+os = "freebsd"
+
+    [[AsmJit.download]]
+    sha256 = "6a1b7dd99a9255ace4a26e7a738389b53748008a3103b257f5895a28edfe5be5"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[AsmJit]]
+arch = "x86_64"
+git-tree-sha1 = "ce8100412122fe711e490f89f77b0349196f6d7a"
+os = "windows"
+
+    [[AsmJit.download]]
+    sha256 = "4760b6bc921e2256f9839e48a3bfbaf460ab6e09d6635938fb54dc61cbfd7b5b"
+    url = "https://github.com/JuliaBinaryWrappers/AsmJit_jll.jl/releases/download/AsmJit-v0.1.0+0/AsmJit.v0.1.0.x86_64-w64-mingw32.tar.gz"
